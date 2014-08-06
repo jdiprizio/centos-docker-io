@@ -1,7 +1,4 @@
 packer_cache/
 centos-docker-io.box
-### https://raw.github.com/github/gitignore/master/Global/vagrant.gitignore
-
+output-virtualbox-iso/
 .vagrant/
-
-
